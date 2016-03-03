@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaestionumdepr01kochgoog_0007.png"; bbox 0 0 3116 4996; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 235 1647 1244 2087">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 235 1647 1244 2087">
+     <span class='ocr_line' id='line_1_1' title="bbox 235 1647 1244 1764; baseline 0.011 -28"><span class='ocrx_word' id='word_1_1' title='bbox 235 1647 236 1654; x_wconf 69' lang='lat'>‘</span> <span class='ocrx_word' id='word_1_2' title='bbox 284 1749 289 1764; x_wconf 42' lang='grc'>,</span> <span class='ocrx_word' id='word_1_3' title='bbox 373 1663 532 1748; x_wconf 68' lang='lat' dir='ltr'>PROF,</span> <span class='ocrx_word' id='word_1_4' title='bbox 565 1665 725 1747; x_wconf 75' lang='lat' dir='ltr'><strong>1³an</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 761 1672 886 1742; x_wconf 81' lang='lat' dir='ltr'><strong>ORD.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 921 1673 1091 1749; x_wconf 76' lang='lat' dir='ltr'><strong>AOAD,</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1124 1669 1244 1748; x_wconf 55' lang='grc' dir='ltr'><strong>ΑΒΗ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 410 1777 1057 1908; baseline 0.003 -2"><span class='ocrx_word' id='word_1_8' title='bbox 410 1777 412 1786; x_wconf 33' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_9' title='bbox 560 1851 830 1908; x_wconf 77' lang='grc' dir='ltr'><strong>ΡΒΑΕΟΕΡΤΟΒΙ</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 850 1851 1057 1908; x_wconf 82' lang='lat' dir='ltr'><strong>OARISSIMO</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 661 2005 857 2087; baseline 0 -3"><span class='ocrx_word' id='word_1_11' title='bbox 661 2075 672 2084; x_wconf 82' lang='lat'><em>.</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 779 2005 857 2087; x_wconf 58' lang='lat' dir='ltr'><strong>ns</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 512 2127 698 2271">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 512 2127 698 2271">
+     <span class='ocr_line' id='line_1_4' title="bbox 512 2127 698 2271; baseline -0.038 -85"><span class='ocrx_word' id='word_1_13' title='bbox 512 2181 516 2186; x_wconf 93' lang='lat'>.</span> <span class='ocrx_word' id='word_1_14' title='bbox 603 2127 698 2271; x_wconf 29' lang='lat' dir='ltr'><strong>[fliz</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1562 4996">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1562 4996">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1562 4996; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1562 4996; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
